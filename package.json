@@ -8,10 +8,10 @@
 		"watch": "webpack-dev-server --config webpack-dev.config.js --watch --colors -d"
 	},
 	"keywords": [
-    "jsonresume",
-    "theme",
-    "aurora"
-  ],
+		"jsonresume",
+		"theme",
+		"aurora"
+	],
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/saurabh73/webpack-handlebars-bootstrap.git"
@@ -56,6 +56,8 @@
 		"date-fns": "^2.22.1",
 		"lodash": "^4.17.21",
 		"paper-css": "^0.4.1",
+		"qrcode": "^1.5.3",
+		"qrious": "^4.0.2",
 		"reset-css": "^5.0.1"
 	}
 }

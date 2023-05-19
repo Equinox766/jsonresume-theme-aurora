@@ -1,5 +1,5 @@
 <section class="certificates">
-  <h3 class="section-header">Certificates</h3>
+  <h3 class="section-header">Certificados</h3>
   <ul class="certificate-list">
     {{#each certificates}}
       <li class="certificate-item">
@@ -7,9 +7,7 @@
         {{name}}
       </a>
       <div class="detail-row">
-        <span class="issued-by">Issued by: <strong>{{issuer}}</strong></span>
-        <span class="year"><strong>{{dateFormat date 'MMM yyyy'}}</strong></span>
-      </div>
+        <span class="issued-by">Expedido por: <strong>{{issuer}}</strong></span>
     </li>
     {{/each}}
   </ul>

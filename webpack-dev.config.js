@@ -6,5 +6,5 @@ module.exports = require('./webpack.config-helper')({
 		contentBase: path.join(__dirname, "src"),
 		publicPath: '/assets/'
 	},
-	port: 8081
+	port: 8083
 });
