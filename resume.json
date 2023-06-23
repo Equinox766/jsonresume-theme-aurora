@@ -42,9 +42,9 @@
       "summary": "",
       "website": "https://biggie.com.py",
       "highlights": [
-        "En mi rol de mantenimiento, he trabajado en asegurar la estabilidad, confiabilidad y rendimiento continuo de un software API basado en Laravel.",
-        "Mi enfoque principal ha sido identificar y solucionar problemas técnicos,",
-        "realizar mejoras de código y garantizar la compatibilidad con las últimas versiones de Laravel."
+        "Conocimiento en el desarrollo de aplicaciones web utilizando el framework Laravel.",
+        "Experiencia en la creación de rutas, controladores en Laravel para implementar funcionalidades en el backend.",
+        "Habilidades en la creación y gestión de consultas utilizando el lenguaje de consultas de Laravel (Eloquent ORM)."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "summary": "",
       "website": "https://biggie.com.py",
       "highlights": [
-            "Eficiencia y rapidez.",
-            "Generación de recibos.",
-            "Colaboración con proveedores"
+            "Habilidades para ofrecer un servicio al cliente excepcional, incluyendo un trato amable.",
+            "Conocimiento profundo de los productos y servicios ofrecidos por el tienda.",
+            "Capacidad para trabajar en un entorno de ritmo rápido y manejar múltiples tareas simultáneamente."
       ]
     },
     {
@@ -68,8 +68,8 @@
       "summary": "",
       "website": "https://www.facebook.com/ConiMarket",
       "highlights": [
-       "Atención al cliente.",
-       "Eficiencia en las transacciones."
+        "Atención al cliente.",
+        "Eficiencia en las transacciones."
       ]
     },
     {
@@ -338,25 +338,40 @@
   ],
   "projects": [
     {
-      "name": "jsonresume-manager",
-      "description": "Es un proyecto de código abierto que presenta un administrador de currículums JSON. Este proyecto ofrece una solución para gestionar y generar currículums utilizando el formato JSON Resume.",
+      "name": "API de Laravel basada en REST",
+      "description": "Mi proyecto de API de Laravel es una aplicación web que sigue los principios y conceptos de la arquitectura REST. La API está construida utilizando el popular framework de PHP llamado Laravel, que proporciona una estructura robusta y escalable para desarrollar aplicaciones web.",
       "keywords": [
         "PHP",
-        "Blade",
-        "VueJs",
+        "Laravel",
         "Docker",
         "MySQL",
-        "JavaScript",
         "Webservices"
       ],
-      "website": "https://github.com/Equinox766/jsonresume-manager",
+      "website": "https://restaurant-new.000webhostapp.com/request-docs",
       "roles": [
-        "Full Stack Developer"
+        "Backend Developer"
       ],
-      "type": "Course Project"
+      "type": "API REST"
     },
     {
-      "name": "CRM - FULLSTACK",
+      "name": "Aplicación Fullstack de Reservas de Comidas - Laravel y React",
+      "description": "Mi proyecto de aplicación Fullstack es una plataforma que permite a los usuarios realizar reservas de comidas de todo tipo. La aplicación está desarrollada utilizando Laravel como framework de backend y React con Vite como herramientas de frontend.",
+      "keywords": [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "Laravel",
+        "React",
+        "Vite"
+      ],
+      "website": "Frontend https://react-quiosco.netlify.app/auth/registro Backend:  https://equinox.alwaysdata.net/",
+      "roles": [
+        "Fullstack Developer"
+      ],
+      "type": "For Restaurant"
+    },
+    {
+      "name": "Aplicación de Gestión de Pedidos - Next.js, Node.js y MongoDB",
       "description": "La página web es una plataforma de CRM desarrollada con Next.js. Esta aplicación proporciona una interfaz intuitiva y funcional para gestionar cuentas de clientes de manera eficiente.",
       "highlights": [],
       "keywords": [
@@ -371,15 +386,15 @@
         "SSR",
         "CRS"
       ],
-      "website": "https://crm-nextjs-production.up.railway.app/nuevacuenta",
+      "website": "https://crm-clientes-equinox766.vercel.app/nuevacuenta",
       "roles": [
         "Full Stack Developer"
       ],
       "type": "CRM Project"
     },
     {
-      "name": "Administrador de pacientes veterinario",
-      "description": "La página web es un sitio dedicado a proporcionar citas inspiradoras y motivacionales a los visitantes. Esta plataforma ofrece una experiencia simple y fácil de usar para aquellos que buscan una dosis de inspiración diaria.",
+      "name": "CRUD de Citas Veterinarias en React",
+      "description": "Mi proyecto es un CRUD (Crear, Leer, Actualizar y Eliminar) de citas veterinarias desarrollado utilizando React. Esta aplicación simple permite a los usuarios registrar citas para sus mascotas, ver citas existentes, actualizar la información de las citas y eliminar citas cuando sea necesario.",
       "keywords": [
         "Javascript",
         "React",
@@ -389,38 +404,23 @@
       "roles": [
         "React Developer"
       ],
-      "type": "Simple Project"
+      "type": "CRUD Project"
     },
     {
-      "name": "Listado de tareas",
-      "description": "Es un proyecto  que ofrece una aplicación de gestión de tareas implementada con Vue.js. Esta aplicación permite a los usuarios organizar y hacer un seguimiento de sus tareas diarias de manera eficiente.",
+      "name": "Clon de Instagram - Plataforma Social construida con Laravel",
+      "description": "Mi proyecto es un clon de Instagram, una plataforma social diseñada y desarrollada utilizando el framework Laravel de PHP. Esta aplicación permite a los usuarios compartir fotos y videos, seguir a otros usuarios, interactuar mediante comentarios y likes, y explorar contenido de interés.",
       "keywords": [
-        "Javascript",
-        "VueJs",
-        "RESTful Webservices",
-        "C#",
-        "PostgreSQL",
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "Laravel",
         "Docker"
       ],
-      "website": "https://github.com/Equinox766/Tareas-VUE",
+      "website": "http://system00.alwaysdata.net/",
       "roles": [
-        "Full Stack Developer"
+        "Fullstack Developer"
       ],
-      "type": "Course Project"
-    },
-    {
-      "name": "Pagina Web",
-      "description": "La página web es un sitio web que presenta una colección de tarjetas de diseño utilizando el estilo Soft UI. Este sitio web ofrece una experiencia visual atractiva y moderna para los visitantes interesados en explorar diferentes estilos de diseño de tarjetas.",
-      "keywords": [
-        "HTML",
-        "CSS3",
-        "JavaScript"
-      ],
-      "website": "https://equinox-cards-soft-ui.netlify.app/",
-      "roles": [
-        "Frontend Developer"
-      ],
-      "type": "Simple Project"
+      "type": "Clon Social Media"
     }
   ]
 }
